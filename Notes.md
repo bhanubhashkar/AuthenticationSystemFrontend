@@ -1,7 +1,7 @@
 # Authentication System Frontend
 
 ## Project Setup
-> Create a folder open that ffolder in terminal and run command: npx create-react-app project-name
+> Create a folder open that folder in terminal and run command: npx create-react-app project-name
 
 > A project with name project-name will be created inside main folder
 

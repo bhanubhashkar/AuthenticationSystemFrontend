@@ -9,7 +9,7 @@
 
 > Follow the url from termainal to validate if React app is running corrctly or not 
 
-> Update App.js and validate chenges are reflecting or not on the webpage.
+> Update App.js and validate chenges are reflecting or not on the webpage
 
 
 

@@ -5,7 +5,7 @@
 
 > A project with name project-name will be created inside main folder
 
-> Navigate to the created folder using cd then run command: npm start to start the react app
+> Navigate to the created folder using cd then run command: npm start to start the react app.
 
 > Follow the url from termainal to validate if React app is running corrctly or not.
 

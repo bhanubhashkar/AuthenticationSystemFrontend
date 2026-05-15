@@ -7,7 +7,7 @@
 
 > Navigate to the created folder using cd then run command: npm start to start the react app
 
-> Follow the url from termainal to validate if React app is running corrctly or not 
+> Follow the url from termainal to validate if React app is running corrctly or not.
 
 > Update App.js and validate chenges are reflecting or not on the webpage.
 

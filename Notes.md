@@ -3,7 +3,7 @@
 ## Project Setup
 > Create a folder open that folder in terminal and run command: npx create-react-app project-name
 
-> A project with name project-name will be created inside main folder
+> A project with name project-name will be created inside main folder.
 
 > Navigate to the created folder using cd then run command: npm start to start the react app.
 
